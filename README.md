@@ -8,4 +8,4 @@
 
 <h1><center>👇 Badges:</center></h1>
 
-[![@LahnoukiAicha's Holopin board](https://holopin.me/lahnoukiaicha)](https://holopin.io/@lahnoukiaicha)
+[![An image of @lahnoukiaicha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lahnoukiaicha)](https://holopin.io/@lahnoukiaicha)
