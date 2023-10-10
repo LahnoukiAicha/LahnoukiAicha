@@ -8,4 +8,4 @@
 
 <h1><center>👇 Badges:</center></h1>
 
-[![@LahnoukiAicha's Holopin board](https://holopin.me/lahnoukiaicha)](https://holopin.io/@lahnoukiaicha)
+[![@lahnoukiaicha's Holopin board](https://holopin.me/lahnoukiaicha)](https://holopin.io/@lahnoukiaicha)
